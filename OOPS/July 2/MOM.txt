@@ -26,7 +26,7 @@ Inheritance and Polymorphism
 abstract & final - fns, class
 interfaces - comparator, comparable, iterator, iterable, toString, equals, hashcode
 Integer vs int, Integer[] vs int[]
-Jargon - encapsulation, data hiding, abstraction, inheritance, polymorphism,
+Jargon -  encapsulation, data hiding, abstraction, inheritance, polymorphism,
 
 Extra
     generics & overloading
