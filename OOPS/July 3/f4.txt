@@ -32,7 +32,7 @@ class Main {
   
     
   public static void main(String[] args) throws NumberFormatException, IOException {
-      // case 2 => P and C
+      // case 3 => P and C
       P obj = new C();
       System.out.println(obj.d); // conflict (object has P.d and C.d, resolved by ref -> P)
       System.out.println(obj.d1); // available only in P
